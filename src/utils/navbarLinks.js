@@ -1,0 +1,1 @@
+export const navbarLinks = ["Our Services", "About Us", "Join Us"];
